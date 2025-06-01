@@ -1,0 +1,2 @@
+## NextJS Boilerplate
+This is a boilerplate for NextJS applications, designed to be used as a starting point for new projects. It includes a basic setup with TypeScript, ESLint, Prettier, and Tailwind CSS.
